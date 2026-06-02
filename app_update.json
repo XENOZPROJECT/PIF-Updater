@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "2.0.0",
-  "releaseNotes": "อัปเดตใหม่:\n- เพิ่มโมดูลใหม่เพียบ\n- ระบบเสถียรขึ้น",
-  "apkUrl": "https://raw.githubusercontent.com/XENOZPROJECT/PIF-Updater/main/ProjectMOAT_v2.apk"
+  "versionCode": 3,
+  "versionName": "3.0.0",
+  "releaseNotes": "อัปเดตใหม่:\n- หน้า Store ดึงข้อมูลไฟล์ .zip อัตโนมัติจาก GitHub",
+  "apkUrl": "https://raw.githubusercontent.com/XENOZPROJECT/PIF-Updater/main/ProjectMOAT_v3.apk"
 }
