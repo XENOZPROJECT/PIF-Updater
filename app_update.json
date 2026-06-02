@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "4.0.0",
+  "versionCode": 5,
+  "versionName": "5.0.0",
   "releaseNotes": "อัปเดตใหม่:\n- หน้า Store ดึงข้อมูลไฟล์ .zip อัตโนมัติจาก GitHub",
-  "apkUrl": "https://raw.githubusercontent.com/XENOZPROJECT/PIF-Updater/main/ProjectMOAT_v4.apk"
+  "apkUrl": "https://raw.githubusercontent.com/XENOZPROJECT/PIF-Updater/main/ProjectMOAT_v5.apk"
 }
