@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "9.0.0",
-  "releaseNotes": "อัปเดตใหม่:\n- หน้า Store ดึงข้อมูลไฟล์ .zip อัตโนมัติจาก GitHub",
-  "apkUrl": "https://raw.githubusercontent.com/XENOZPROJECT/PIF-Updater/main/ProjectMOAT_v9.apk"
+  "versionCode": 10,
+  "versionName": "9.1.0",
+  "releaseNotes": "อัปเดต 9.1.0\n- เลือกเป้าหมายการโยนพิกัด: ทั้งหมด หรือเฉพาะแอปที่เลือก\n- เลือกแอปได้จากปุ่มลอย (ค้นหา / เลือกทั้งหมด / โชว์ไอคอนแอป)\n- โหมดหมุดเดิน: เปิด=เดินตามเส้นทาง, ปิด=วาปไปจุดที่แตะ\n- พัก/ไปต่อกลางทางได้ ไม่ต้องเริ่มจากหมุด 1 ใหม่\n- ปรับหน้าสอนใช้งาน (Tutorial) ใหม่",
+  "apkUrl": "https://raw.githubusercontent.com/XENOZPROJECT/PIF-Updater/main/ProjectMOAT_v10.apk"
 }
